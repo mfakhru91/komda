@@ -23,6 +23,8 @@ class CreateUsersTable extends Migration
             $table->integer('photograpy');
             $table->integer('videoEditing');
             $table->string('password');
+            $table->string('no_tlp');
+            $table->string('avatar');
             $table->rememberToken();
             $table->timestamps();
         });
