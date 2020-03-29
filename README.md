@@ -8,7 +8,7 @@ tujuan projek ini adalah untuk membuat elearning untuk KOMDA (Komunitas Multimed
 
 projek ini menggunakan framework laravel untuk backend
 
-langka - langkah menlankan projek ini 
+langka - langkah menjalankan projek ini 
 1. install laravel https://laravel.com/docs/7.x
 2. setelah melakuna instalasi cukum melakukan migrasi tabel yang telah di sediakan dengan mengunakan come :
     - php artisan migrate
