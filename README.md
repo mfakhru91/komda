@@ -1,8 +1,10 @@
+
 ## Prokject MPPL
 Nama anggota kelompok :
 1. Muhmmad Rizqi Ardiansyah (scrum master)
 2. Muhammad Fakhru Alfarizqi
 3. Robiul iqbal
+4. Moch Kholil
 
 tujuan projek ini adalah untuk membuat elearning untuk KOMDA (Komunitas Multimedia Darussalam) sehingga mudahkan UKM dalam melaksanakan pelatihannya dan selain itu juga project ini bertujuan untuk memenuhi tugas akhir MPPL dengan menggunakan methode scrump
 
@@ -14,8 +16,8 @@ langka - langkah menjalankan projek ini
     - php artisan migrate
 3. selamat menggunakan aplikasi ini
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
