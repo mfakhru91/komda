@@ -4,6 +4,7 @@ Nama anggota kelompok :
 1. Muhmmad Rizqi Ardiansyah (scrum master)
 2. Muhammad Fakhru Alfarizqi
 3. Robiul iqbal
+4. Moch Kholil
 
 tujuan projek ini adalah untuk membuat elearning untuk KOMDA (Komunitas Multimedia Darussalam) sehingga mudahkan UKM dalam melaksanakan pelatihannya dan selain itu juga project ini bertujuan untuk memenuhi tugas akhir MPPL dengan menggunakan methode scrump
 
